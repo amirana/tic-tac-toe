@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-A classic two-player Tic Tac Toe game built in vanilla JavaScript and rebuilt in React. Players take turns marking cells on a 3×3 grid. The first player to align three marks horizontally, vertically, or diagonally wins.
+A classic two-player Tic Tac Toe game built in React. Players take turns marking cells on a 3×3 grid. The first player to align three marks horizontally, vertically, or diagonally wins.
 
 ## Demo
 
