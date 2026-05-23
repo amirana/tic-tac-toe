@@ -4,7 +4,7 @@ A classic two-player Tic Tac Toe game built in React. Players take turns marking
 
 ## Demo
 
-[Live Demo](https://amirana.me) 
+[Live Demo](https://tic-tac-toe.amirana.me/) 
 
 ## Features
 
