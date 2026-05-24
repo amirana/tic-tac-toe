@@ -68,7 +68,13 @@ function App() {
               className="grid-cell"
               onClick={() => handleClick(index)}
             >
-              {cell}
+              {cell && (
+                <img
+                  src={cell === "X" ? "/bread.png" : "/jam.png"}
+                  alt={cell}
+                  className="cell-icon"
+                />
+              )}
             </div>
           ))}
         </div>
